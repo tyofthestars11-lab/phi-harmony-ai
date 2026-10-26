@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://tyofthestars11-lab.github.io/phi-harmony-ai/static/css/main.68cef3b0.css",
+    "main.js": "https://tyofthestars11-lab.github.io/phi-harmony-ai/static/js/main.bfd478a0.js",
+    "index.html": "https://tyofthestars11-lab.github.io/phi-harmony-ai/index.html",
+    "main.68cef3b0.css.map": "https://tyofthestars11-lab.github.io/phi-harmony-ai/static/css/main.68cef3b0.css.map",
+    "main.bfd478a0.js.map": "https://tyofthestars11-lab.github.io/phi-harmony-ai/static/js/main.bfd478a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68cef3b0.css",
+    "static/js/main.bfd478a0.js"
+  ]
+}
